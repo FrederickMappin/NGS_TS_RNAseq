@@ -88,7 +88,7 @@ rm *fastq
 
 mkdir headfiles 
 
-mv H* headfiles
+mv H* ./headfiles
 
 echo "Job's not finished. Job finished? I don't think so"
 
