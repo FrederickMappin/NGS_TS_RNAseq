@@ -66,4 +66,4 @@ fastqc -t $USAGE ${BASE}_1_paired.fastq.gz ${BASE}_2_paired.fastq.gz  \
 
 done
 
-echo "Job's not finished. Job finished? I don't think so 
+echo "Job's not finished. Job finished? I don't think so"
