@@ -169,5 +169,5 @@ for i in $(ls); do
   fi
 done
 
-
+echo "Job's not finished. Job finished? I don't think so" 
    
