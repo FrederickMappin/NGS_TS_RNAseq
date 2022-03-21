@@ -57,7 +57,7 @@ FILES="./*_L001_R1_001.fastq.gz"
 # Takes the prefix of all fastq.gz files 
 echo $FILES 
 for PREFIX in $FILES
-do base=$(basename $PREFIX $SUFFIX1 )
+do BASE=$(basename $PREFIX $SUFFIX1 )
 
 #Sanity check
 echo $BASE
