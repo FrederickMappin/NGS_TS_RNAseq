@@ -1,4 +1,4 @@
-# Bashscripts
+# (task seperated) RNA-seq repo 
 
 ---
 *LaneMerger*
