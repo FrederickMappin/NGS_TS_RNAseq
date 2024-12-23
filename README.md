@@ -1,7 +1,7 @@
 # (task seperated) RNA-seq repo 
 
 ---
-This repo consist of task seperated  scripts  for learning ins and out of RNA-seq. Together they can be used to do full RNA-seq Analysis as seen as in  [Odor-evoked Transcriptomes ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293018)
+This repo is for learning purposes only!! ideally you would want to use a RNA analysis analysis like Nextflow rnaseq pipeline. Together they can be used to do full RNA-seq Analysis as seen as in  [Odor-evoked Transcriptomes ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293018)
 
 RNA sequencing (RNA-seq) is a high-throughput technique used to analyze the entire transcriptome, which is the complete set of RNA molecules in a cell. It involves isolating RNA, converting it into complementary DNA (cDNA), and sequencing it to obtain detailed data on gene expression levels, splicing patterns, and the presence of non-coding RNAs. RNA-seq enables the identification of novel transcripts, alternative splicing events, and gene mutations, providing insights into cellular processes and disease mechanisms. Unlike microarrays, RNA-seq does not require predefined probes, making it highly sensitive and capable of detecting low-abundance transcripts. It has become a powerful tool for comparative genomics, functional genomics, and personalized medicine.
 
