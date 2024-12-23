@@ -8,7 +8,7 @@ RNA sequencing (RNA-seq) is a high-throughput technique used to analyze the enti
 
 
 
-# Odor-evoked Transcriptomes Project with select Sample Figure 
+# Odor-evoked Transcriptomes Project with select Sample Figures 
 ## Brief Dataset & Project Description:
 Modulation of odorant receptors mRNA induced by prolonged odor exposure is highly correlated with ligand-receptor interactions in Drosophila as well as mammals of the Muridae family. If this response feature is conserved in other organisms, this presents an intriguing initial screening tool when searching for novel receptor-ligand interactions in species with predominantly orphan olfactory receptors. We demonstrate that mRNA modulation in response to 1-octen-3-ol odor exposure occurs in a time- and concentration-dependent manner in Aedes aegypti mosquitoes. To investigate gene expression patterns at a global level, we generated an odor-evoked transcriptome associated with 1-octen-3-ol odor exposure. Transcriptomic data revealed that ORs and OBPs were transcriptionally responsive whereas other chemosensory gene families showed little to no differential expression. Alongside chemosensory gene expression changes, transcriptomic analysis found that prolonged exposure to 1-octen-3-ol modulated xenobiotic response genes, primarily members of the cytochrome P450, insect cuticle proteins, and glucuronosyltransferases families. Together, these findings suggest that mRNA transcriptional modulation of olfactory receptors caused by prolonged odor exposure is pervasive across taxa and can be accompanied by the activation of xenobiotic responses.
 
