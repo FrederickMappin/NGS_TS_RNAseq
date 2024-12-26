@@ -1,5 +1,4 @@
 # (task seperated) RNA-seq repo 
-
 ---
 This repo is for learning purposes only!! ideally you would want to use a RNA analysis analysis like Nextflow rnaseq pipeline. Together they can be used to do full RNA-seq Analysis as seen as in  [Odor-evoked Transcriptomes ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293018)
 
